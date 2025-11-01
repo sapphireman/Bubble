@@ -1,0 +1,10 @@
+{
+  "name": "myextension",
+  "description": "My first MakeCode Arcade extension!",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ]
+}
